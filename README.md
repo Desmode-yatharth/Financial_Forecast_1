@@ -5,3 +5,5 @@ This project implements a complete machine learning pipeline to forecast directi
 
 Objective:
 The primary objective is to predict whether the SPY price will increase (1) or decrease (0) on the next trading day based on historical price and volume data. The system integrates feature engineering, sequence modeling, dimensionality reduction, and deep learning to capture market patterns, focusing on actionable directional predictions for trading strategies.
+
+Inference: I didn't reach an accuracy of directional accuracy 65%.
